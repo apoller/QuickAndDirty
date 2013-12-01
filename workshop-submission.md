@@ -3,7 +3,7 @@
 ####Authors####
 
 [Andreas Poller, Fraunhofer Institute for Secure Information Technology, Rheinstrasse 75, 64295 Darmstadt, Germany](mailto:andreas.poller@sit.fraunhofer.de)   
-Andreas Kramm, Goethe University, Grüneburgplatz 1, 60123 Frankfurt am Main, Germany
+[Andreas Kramm, Goethe University, Grüneburgplatz 1, 60123 Frankfurt am Main, Germany](mailto:akramm@rz.uni-frankfurt.de)
   
 ####Abstract####
 
@@ -46,3 +46,9 @@ A benefit of our individualized interview questions is that they allowed us to f
 Combining interviews and plugin-collected data supply our understanding of users’ practices, of concepts of the technical environment and experiences users remember as meaningful to them as well as data on actual practices and comments in situ. Thereby it enables us to understand individual usage contexts. For instance, one interviewee explained a single chat on-off-sequence we observed in her data with a mistake, and stated that she typically uses private messages only. However, upon following up on that statement, she realized that earlier in the interview she mistakenly had spoken of "chatting" when actually she meant "to use [Facebook’s] regular message program". She considered the chat function as "totally stupid" because she had problems with being visible to others.  
 
 ###Discussion and Conclusion###
+
+
+###References###
+
+[1] boyd, D., Marwick, A.E. Social Privacy in Networked Publics: Teens’ Attitudes, Practices, and Strategies. In A Decade in in Internet Time: Symposium on the Dynamics of the Internet and Society. 2011
+[2] Rotman, D., Preece J., He, Y., Druin, A. Extreme Ethnography: Challenges for Research in Large Scale Online Environments. In Proc. 2012 iConference, ACM (2012), 207–214
