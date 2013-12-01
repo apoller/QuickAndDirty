@@ -50,5 +50,5 @@ Combining interviews and plugin-collected data supply our understanding of users
 
 ###References###
 
-[1] boyd, D., Marwick, A.E. Social Privacy in Networked Publics: Teens’ Attitudes, Practices, and Strategies. In A Decade in in Internet Time: Symposium on the Dynamics of the Internet and Society. 2011
+[1] boyd, D., Marwick, A.E. Social Privacy in Networked Publics: Teens’ Attitudes, Practices, and Strategies. In A Decade in in Internet Time: Symposium on the Dynamics of the Internet and Society. 2011   
 [2] Rotman, D., Preece J., He, Y., Druin, A. Extreme Ethnography: Challenges for Research in Large Scale Online Environments. In Proc. 2012 iConference, ACM (2012), 207–214
