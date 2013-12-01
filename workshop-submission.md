@@ -47,6 +47,11 @@ Combining interviews and plugin-collected data supply our understanding of users
 
 ###Discussion and Conclusion###
 
+Our research approach to investigate OSN users’ privacy practices is a case in point how emerging practical requirements, as well as observations made in the field, lead to a continuous refinement of our research designs by combining research methods and concurrently developing a specific research software. The more we digged into how users actually manage their privacy in OSNs, the more we recognized that we have to integrate further data sources in our research designs. In this process we omitted well-established research techniques like diary studies (too demanding for participants), walkthroughs (too intrusive and erratic during execution), or settings questionnaire (too error-prone).
+
+However, it is worth to mention that the development of our web browser plugin and the supplementing analysis and visualization tools was expensive as well. On the other hand, applying our software in research design scales well because it does not require considerable extra work to forward it to additional study participants. We also provide the software as open source to support other researchers doing qualitative or quantitative empirical research on OSN privacy.
+
+As we have shown with our example study, our software-supported field research approach tackles several issues of self-reporting and focusing interviews - problems more considerable when applying other research techniques. While using our software requires negligible extra effort during our studies it helps to extend the scope and level of detail of our research - at the cost of developing and maintaining our web browser plugin. We are wondering whether we need more initiatives of our research community to develop tools like our software toolkit and to share these tools with other research projects allowing them to develop lean but comprehensive research design, or efficient “quick and dirty” research approaches. 
 
 ###References###
 
