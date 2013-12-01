@@ -1,4 +1,4 @@
-##Developing Research Software to Investigate OSN Users' Privacy Strategies##
+##Applying a Research Software Toolkit in a Mixed-Method Approach to Investigate OSN Users' Privacy Strategies##
 
 ####Authors####
 
